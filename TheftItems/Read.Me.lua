@@ -1,0 +1,2 @@
+Hello this is my first Script, Called Theft Items, my name is Roguewarrior, Aka WarriosScripts. all the scripts that ill be working on will be specifically for Qb.Core Only.
+you will place all these items in your items.lua section in qbcore. any all images will go into your qb-inventory images section.
